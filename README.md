@@ -7,7 +7,7 @@ Evento NLWAgents, proporcionando a criação de um IA local com uma API do Googl
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Ferramentas</a>
+  <a href="#-ferramentas">Ferramentas</a>
 </p>
 
 ## 🚀 Tecnologias
